@@ -1,0 +1,17 @@
+.testimonial {
+  background: #eee;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.testi-list {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.testi {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
